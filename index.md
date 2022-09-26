@@ -30,5 +30,6 @@ to ever code block
 ---
 
 #### Site Navigation:
-* On-Topic: [Home](https://lisasiliu.github.io/cse15l-lab-reports/index.html) // [Notes](https://lisasiliu.github.io/cse15l-lab-reports/notes.html)
-* Off-Topic: [Music](https://lisasiliu.github.io/cse15l-lab-reports/songoftheday.html)
+* General: [Home](https://lisasiliu.github.io/cse15l-lab-reports/index.html) // [Notes](https://lisasiliu.github.io/cse15l-lab-reports/notes.html)
+* Lab Reports: [[1]](https://lisasiliu.github.io/lab-report-1-week-0.html)
+* Random: [Music](https://lisasiliu.github.io/cse15l-lab-reports/songoftheday.html)
