@@ -10,4 +10,5 @@ A new page gets added to the website, a new url is generated, ready to be seen o
 
 #### Q3. Screenshot a page that uses all of the basic syntax in the [Markdown Cheat Sheet](https://commonmark.org/help/)
 
-[to be done]
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/44093048/192175556-f4c487c3-ea5d-4461-9e47-553395ffff6f.png">
+<img width="999" alt="image" src="https://user-images.githubusercontent.com/44093048/192175515-c8dc46e8-6720-4c0b-b830-8ef884d6a4b3.png">
