@@ -29,7 +29,7 @@ Starting from step 2, everyone in the lab got stuck. Out of about 12-14 people i
 
 Hence, I will list the workaround with a 100% success rate that everyone else used.
 
-2. (alt) Connect with the command, `ssh [university-wide username]@ieng6.ucsd.edu'. 
+2. (alt) Connect with the command, `ssh [university-wide username]@ieng6.ucsd.edu`. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>_For example, my username in this case was lil043. It's the part before the '@' in your university username_</sup>
 
