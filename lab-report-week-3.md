@@ -1,4 +1,4 @@
-# Week 1 Lab Report
+# Week 3 Lab Report
 
 **Assignment:** Instructions [here](https://ucsd-cse15l-f22.github.io/week/week3/).
 
