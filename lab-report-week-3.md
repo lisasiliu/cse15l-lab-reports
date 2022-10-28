@@ -66,16 +66,16 @@ class SearchEngine {
 **Screenshot 1.** Add
 
 * Method: handleRequest
-* Relevant Argument: URI url
+* Relevant Argument: URI url (in this case, https://localhost:4141/add?s=anewstringtoadd, which when gets parsed so we can see the key word "add" and process it accordingly)
 * Relevant Value: getPath ("/add", for adding a word to the search), getQuery ("s", for indicating the search word, "[word]", for inputting the word to add)
-* Values: do not change during function
+* Values: Array storing all searches gets the new word (anewstringtoadd) added to it, going from empty to size 1
 
 <img width="316" alt="image" src="https://user-images.githubusercontent.com/44093048/195966964-c965c462-9894-4a19-be18-71c10b16f139.png">
 
 **Screenshot 2.** Search
 
 * Method: handleRequest
-* Relevant Argument: URI url
+* Relevant Argument: URI url (in this case, https://localhost:4141/search?s=app)
 * Relevant Value: getPath ("/search", for indicating you want to search in past words), getQuery ("s", for indicating the search word, "[word]", for inputting the word/letters to search each previous recorded word for)
 * Values: do not change during function
 
@@ -85,7 +85,7 @@ class SearchEngine {
 **Screenshot 3.** Show Past Searches
 
 * Method: handleRequest
-* Relevant Argument: URI url
+* Relevant Argument: URI url (in this case, https://localhost:4141/)
 * Relevant Value: getPath ("/", the home page that prints all prior added words)
 * Values: do not change during function
 
