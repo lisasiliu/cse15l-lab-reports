@@ -165,6 +165,7 @@ Finds empty files
 1. Finds any files in ./technical that are empty (there are none here)
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/44093048/199107330-858f5944-07a5-4ded-90aa-36dbe5e934d9.png">
 Command:
+
 ```
  find ./technical -empty
 ```
