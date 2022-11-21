@@ -31,5 +31,5 @@ to ever code block
 
 #### Site Navigation:
 * General: [Home](https://lisasiliu.github.io/cse15l-lab-reports/index.html) // [Notes](https://lisasiliu.github.io/cse15l-lab-reports/notes.html)
-* Lab Reports: [[0]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-1-week-0.html) [[1]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-1.html) [[3]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-3.html) [[5]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-5.html) [[7]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-7.html)
+* Lab Reports: [[0]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-1-week-0.html) [[1]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-1.html) [[3]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-3.html) [[5]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-5.html) [[7]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-7.html) [[9]](https://lisasiliu.github.io/cse15l-lab-reports/lab-report-week-9.html)
 * Random: [Music](https://lisasiliu.github.io/cse15l-lab-reports/songoftheday.html) 
